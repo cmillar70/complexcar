@@ -1,2 +1,2 @@
-# constantcar
-making a car with constant velocity
+# Project Constant Car
+we will make a car with constant velocity

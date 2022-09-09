@@ -4,7 +4,7 @@ In physics class, the cars we have only go one speed. What if we made a car that
 ### Requirements
 -able to control the velocity
 -maintain a constant velocity regardless of battery charge
--reasonable size (about 1 foot long)
+-reasonable size (about 1/2 a foot long)
 -sturdy
 -easily replaceabe battery
 

@@ -8,7 +8,7 @@ In physics class, the cars we have only go one speed. What if we made a car that
 -sturdy
 -easily replaceabe battery
 
-### Possible additions #### for after we're done
+### Possible additions for after we're done
 -constant acceleration
 -looks cool
 -collect data and give feedback

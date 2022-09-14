@@ -4,7 +4,7 @@ In physics class, the cars we have only go one speed. What if we made a car that
 ### Requirements
 -able to control the velocity
 -maintain a constant velocity regardless of battery charge
--reasonable size (about 1/2 a foot long)
+-reasonable size
 -sturdy
 -easily replaceabe battery
 
@@ -14,7 +14,7 @@ In physics class, the cars we have only go one speed. What if we made a car that
 -collects data and gives feedback
 
 ## Appearance
-rough idea, nothing practical yet, black knight colored
+8in x 4in x 2in, nothing practical yet, black knight colored
 ![carV2](https://user-images.githubusercontent.com/55702245/190243470-8ac5e72b-29bf-41f6-926b-b6ce6508185f.PNG)
 
 

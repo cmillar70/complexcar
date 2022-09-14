@@ -14,5 +14,7 @@ In physics class, the cars we have only go one speed. What if we made a car that
 -collects data and gives feedback
 
 ## Appearance
-rough rendition of my mental picture of it
-![image](https://user-images.githubusercontent.com/55702245/189726700-e565db7e-233d-439f-bbfe-d42954ffbaa5.png)
+rough idea, nothing practical yet, go black knights!
+![carV2](https://user-images.githubusercontent.com/55702245/190243291-41e3287a-21ae-419b-af8f-224b6a2d5c91.PNG)
+
+

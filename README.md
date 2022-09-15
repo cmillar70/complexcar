@@ -8,10 +8,26 @@ In physics class, the cars we have only go one speed. What if we made a car that
 -sturdy
 -easily replaceabe battery
 
+# Timeline
+-november 2022: initial plan for wiring and coding
+-december 2022: prototype
+-february 2023: final plan for wiring and coding
+-May 2023: done
+
 ### Possible additions for after we're done
 -constant acceleration
 -looks cool
 -collects data and gives feedback
+
+## Materials
+-acrylic for laser cutting the body
+-wheels
+-4 small motors for the wheels
+-a dial
+-probably some other stuff
+
+### Budget
+less than $500
 
 ## Appearance
 8in x 4in x 2in, nothing practical yet, black knight colored

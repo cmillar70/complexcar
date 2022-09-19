@@ -9,9 +9,9 @@ In physics class, the cars we have only go one speed. What if we made a car that
 - easily replaceabe battery
 
 # Timeline
-- november 2022: initial plan for wiring and coding
-- december 2022: prototype
-- february 2023: final plan for wiring and coding
+- November 2022: initial plan for wiring and coding
+- December 2022: prototype
+- February 2023: final plan for wiring and coding
 - May 2023: done
 
 ### Possible additions for after we're done

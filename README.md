@@ -1,5 +1,5 @@
 # Project
-In physics class, the cars we have suck, so we're making a better one
+In physics class, the cars we have kinda suck, so we're making a better one
 
 ### Requirements
 - able to control the velocity

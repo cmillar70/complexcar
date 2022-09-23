@@ -8,16 +8,16 @@ In physics class, the cars we have kinda suck. They look ugly, are hard to measu
 - sturdy
 - easily replaceabe battery
 
+### Possible additions for after we're done
+- constant acceleration
+- looks cool
+- collects data and gives feedback
+
 # Timeline
 - November 2022: initial plan for wiring and coding
 - December 2022: prototype
 - February 2023: final plan for wiring and coding
 - May 2023: done
-
-### Possible additions for after we're done
-- constant acceleration
-- looks cool
-- collects data and gives feedback
 
 ## Materials
 - acrylic for laser cutting the body

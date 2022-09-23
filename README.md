@@ -1,5 +1,5 @@
 # Project
-In physics class, the cars we have kinda suck, so we're making a better one
+In physics class, the cars we have kinda suck. They look ugly, are hard to measure, move at a very weird speed, and are inconsistent. We're making a car that will fix all those problems.
 
 ### Requirements
 - able to control the velocity
@@ -27,7 +27,7 @@ In physics class, the cars we have kinda suck, so we're making a better one
 - probably some other stuff
 
 ### Budget
-less than $500
+less than $500 hopefully
 
 ## Appearance
 8in x 4in x 2in, nothing practical yet, black knight colored

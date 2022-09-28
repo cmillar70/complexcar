@@ -9,6 +9,7 @@ In physics class, the cars we have kinda suck. They look ugly, are hard to measu
 - easily replaceable battery (measurable by Mr Manning's standards)
 
 ### Possible additions for after we're done
+- kill switch after a certain distance
 - constant acceleration (measurable through initial completion and quantity of options)
 - looks cool (measurable by Mr Manning's standards)
 - collects data and gives feedback (measurable through initial completion and types of data)
@@ -23,7 +24,7 @@ In physics class, the cars we have kinda suck. They look ugly, are hard to measu
 - acrylic for laser cutting the body (available)
 - 3d printing material for the frame (available hopefully)
 - 4 60mm micro servo wheels (available)
-- 4 130dc motors for the wheels (available)
+- 4 TT motors for the wheels (available)
 - a dial
 - power switch
 - probably some other stuff

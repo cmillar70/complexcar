@@ -3,7 +3,7 @@ In physics class, the cars we have kinda suck. They look ugly, are hard to measu
 
 ### Requirements
 - able to control the velocity on many levels (measurable through initial completion and quantity of options)
-- maintain a constant velocity regardless of battery charge (measurable through testing)
+- maintain a constant velocity regardless of battery charge (measurable through practical testing)
 - reasonable size (measurable by Mr Manning's standards)
 - sturdy (measurable through various durability tests)
 - easily replaceable battery (measurable by Mr Manning's standards)

@@ -39,5 +39,5 @@ We plan to build 1 cart initially but document it enough to be able to fully rep
 8in x 4in x 2in, nothing practical yet, black knight colored
 ![carV2](https://user-images.githubusercontent.com/55702245/190243470-8ac5e72b-29bf-41f6-926b-b6ce6508185f.PNG)
 
-
-
+# Daily Log
+-9/30/22 

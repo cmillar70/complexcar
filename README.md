@@ -43,3 +43,4 @@ We plan to build 1 cart initially but document it enough to be able to fully rep
 - 9/30: taking note of what we've accomplished this week and creating this log
 - 9/29: browsing parts we can use and other projects for ideas
 - 9/28: cracking open a constant velocity car to see how it works and brainstorming for our own car
+- 10/3: assembled a set of wheels and started working on a gear

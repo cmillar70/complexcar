@@ -30,7 +30,7 @@ In physics class, the cars we have kinda suck. They look ugly, are hard to measu
 - probably some other stuff
 
 ### Total Budget
-less than $500 hopefully
+everything is availiable in the lab
 
 ### Results
 We plan to build 1 cart initially but document it enough to be able to fully replicate it

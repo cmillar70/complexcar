@@ -40,7 +40,8 @@ We plan to build 1 cart initially but document it enough to be able to fully rep
 ![carV2](https://user-images.githubusercontent.com/55702245/190243470-8ac5e72b-29bf-41f6-926b-b6ce6508185f.PNG)
 
 # Daily Log
+- 10/3: assembled a set of wheels and started working on a gear
 - 9/30: taking note of what we've accomplished this week and creating this log
 - 9/29: browsing parts we can use and other projects for ideas
 - 9/28: cracking open a constant velocity car to see how it works and brainstorming for our own car
-- 10/3: assembled a set of wheels and started working on a gear
+

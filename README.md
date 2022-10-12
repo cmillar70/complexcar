@@ -36,8 +36,8 @@ everything is availiable in the lab
 We plan to build 1 cart initially but document it enough to be able to fully replicate it
 
 ## Appearance
-8in x 4in x 2in, nothing practical yet, black knight colored
-![carV2](https://user-images.githubusercontent.com/55702245/190243470-8ac5e72b-29bf-41f6-926b-b6ce6508185f.PNG)
+20cm x 10cm x 5cm, nothing practical yet, sleek black color because it looks cool
+![carV3](https://user-images.githubusercontent.com/55702245/195425613-2d854d42-5ccc-4170-8d25-fdf9a49ba8fd.PNG)
 
 # Daily Log
 - 10/10: presentation polishing

@@ -40,8 +40,9 @@ We plan to build 1 cart initially but document it enough to be able to fully rep
 ![carV3](https://user-images.githubusercontent.com/55702245/195425613-2d854d42-5ccc-4170-8d25-fdf9a49ba8fd.PNG)
 
 # Daily Log
+- 10/19: presentation successful
 - 10/10: presentation polishing
-- 10/5 - 10/7: starting project presentation
+- 10/5-10/7: starting project presentation
 - 10/3: assembled a set of wheels and started working on a gear
 - 9/30: taking note of what we've accomplished this week and creating this log
 - 9/29: browsing parts we can use and other projects for ideas

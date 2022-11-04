@@ -41,6 +41,7 @@ We plan to build 1 cart initially but document it enough to be able to fully rep
 ![carV3](https://user-images.githubusercontent.com/55702245/195425613-2d854d42-5ccc-4170-8d25-fdf9a49ba8fd.PNG)
 
 # Daily Log
+- 11/3 set goals for thanksgiving break and winter break
 - 10/31 created holes for the axles
 - 10/20-10/26: presentation feedback response
 - 10/19: presentation successful

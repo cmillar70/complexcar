@@ -21,6 +21,7 @@ In physics class, the cars we have kinda suck. They look ugly, are hard to measu
 - May 2023: done
 
 ## Materials
+- Arduino Metro 328
 - acrylic for laser cutting the body (available)
 - 3d printing material for the frame (available hopefully)
 - 4 60mm micro servo wheels (available)

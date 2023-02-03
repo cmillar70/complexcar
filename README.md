@@ -41,6 +41,7 @@ We plan to build 1 cart initially but document it enough to be able to fully rep
 ![carV3](https://user-images.githubusercontent.com/55702245/195425613-2d854d42-5ccc-4170-8d25-fdf9a49ba8fd.PNG)
 
 # Daily Log
+- 2/3: submitting goal schedule for Q3
 - 1/16-1/19: working on mid-year presentation
 - 1/13: resizing car to make it longer
 - 1/12: assembled first laser cut car

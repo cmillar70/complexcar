@@ -22,11 +22,10 @@ In physics class, the cars we have kinda suck. They look ugly, are hard to measu
 
 ## Materials
 - Arduino Metro 328
-- acrylic for laser cutting the body (available)
-- 3d printing material for the frame (available hopefully)
+- acrylic for laser cutting the body and gears (available)
+- 3d printing material for anything that can't be laser cut (available hopefully)
 - 4 60mm micro servo wheels (available)
-- 4 TT motors for the wheels (available)
-- a dial
+- 2 TT motors for the axles (available)
 - power switch
 - probably some other stuff
 

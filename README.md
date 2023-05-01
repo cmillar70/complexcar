@@ -26,8 +26,8 @@ In physics class, the cars we have kinda suck. They look ugly, are hard to measu
 - 3d printing material for anything that can't be laser cut (available hopefully)
 - 4 60mm micro servo wheels (available)
 - 2 TT motors for the axles (available)
-- power switch
-- probably some other stuff
+- power switch and indicator
+- go button
 
 ### Total Budget
 everything is availiable in the lab

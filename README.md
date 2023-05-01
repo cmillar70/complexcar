@@ -41,6 +41,7 @@ We plan to build 1 cart initially but document it enough to be able to fully rep
 ![carV3](https://user-images.githubusercontent.com/55702245/195425613-2d854d42-5ccc-4170-8d25-fdf9a49ba8fd.PNG)
 
 # Daily Log
+- 4/28: physical car is complete
 - 2/15: adding cones to axles to hold them in place
 - 2/13: finishing gear adjustments
 - 2/6-2/10: making gears, moving motors, and making motor mounts

@@ -36,8 +36,8 @@ everything is availiable in the lab
 We plan to build 1 cart initially but document it enough to be able to fully replicate it
 
 ## Appearance
-20cm x 10cm x 5cm, nothing practical yet, sleek black color because it looks cool
-![carV3](https://user-images.githubusercontent.com/55702245/195425613-2d854d42-5ccc-4170-8d25-fdf9a49ba8fd.PNG)
+25cm x 12.5cm x 5cm, smooth boxy design, bright orange color because it looks cool
+![image](https://user-images.githubusercontent.com/55702245/235510775-9de12c3a-202d-4524-87b9-7f411ca9a8ea.png)
 
 # Daily Log
 - 4/28: physical car is complete

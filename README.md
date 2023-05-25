@@ -37,8 +37,62 @@ We plan to build 1 cart initially but document it enough to be able to fully rep
 
 ## Appearance
 25cm x 12.5cm x 5cm, smooth boxy design, bright orange color because it looks cool
+### in CAD:
 ![image](https://user-images.githubusercontent.com/55702245/235510775-9de12c3a-202d-4524-87b9-7f411ca9a8ea.png)
+### In person:
+![IMG_1387](https://github.com/cmillar70/complexcar/assets/60944294/bd59fa34-2048-4bc4-9e9b-20b942849c50)
+## Wiring
+![wiring](https://github.com/cmillar70/complexcar/assets/60944294/7382f88a-d9e9-48a5-95e8-93abce43da84)
 
+## Code
+
+```python
+void setup() {
+  // put your setup code here, to run once:
+
+  Serial.begin(9600);
+  pinMode(5, OUTPUT);
+  pinMode(9, INPUT_PULLUP); 
+  // reads when the four spokes attached to the motor crosses a photo-interuptor
+  pinMode(10, OUTPUT);
+  pinMode(11, OUTPUT);
+  // sets speed of motors
+  Serial.println("In setup!");
+}
+int now = 0;
+int pre = 0;
+int myTime = 0;
+int mySpeed = 0;
+int button = 0;
+int onoff = 0;
+void loop() {
+  digitalWrite(5, HIGH);
+  digitalWrite(4, LOW);
+  // tells this motor to go relatively forward as fast as it can go
+  analogWrite(11, 255);
+  analogWrite(10, 0);
+// tells another motor to go relatively backward as fast as it can go
+  int bus = millis();
+  while (millis() < bus + 4000) // tells the car to run for 4 seconds
+  {
+    onoff = digitalRead(9);
+    if (onoff == 1) // checks if one of the four spokes passes the photo interrupter
+    {
+      now = millis();
+      Serial.println(now - pre); // prints the time elapsed between the last blockage of the PI
+      pre = now; //resets the clock~
+      while (onoff == 1)
+      {
+        onoff = digitalRead(9); // the while loop iterates nothing happening until the photointeruptor is no longer blocked.
+      }
+    }
+  }
+}
+
+```
+## Test Procedures
+place car down, put batteries in. let it run for its full duration. afterwords, check the serial monitor to see if the time is consistant.
+##
 # Daily Log
 - 4/28: physical car is complete
 - 2/15: adding cones to axles to hold them in place
